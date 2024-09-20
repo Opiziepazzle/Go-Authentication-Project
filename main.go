@@ -3,7 +3,7 @@ package main
 import (
 "fmt"
   "os"
-
+        "github.com/opiziepazzle/zenblog/controllers/user"
 	"github.com/gofiber/fiber/v2"
 	
     "github.com/opiziepazzle/golang-auth/initializers"
